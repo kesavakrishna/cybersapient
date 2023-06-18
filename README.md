@@ -1,5 +1,5 @@
 # cybersapient
-1. How to run the code:
+How to run the code:
 open the .ipynb file
 you will see an option titled "open in colab". Click on it
 this takes you to google colaboratory
