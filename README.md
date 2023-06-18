@@ -1,6 +1,6 @@
 # cybersapient gold price forecasting
 How to run the code:
-  open the .ipynb file
+**open the .ipynb file
   you will see an option titled "open in colab". Click on it
   this takes you to google colaboratory
   upload the excel sheet and you can run the code
